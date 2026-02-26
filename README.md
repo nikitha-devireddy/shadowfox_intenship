@@ -1,182 +1,172 @@
-💻 ShadowFox Virtual Internship – Java Projects
-📌 Overview
+# 💻 ShadowFox Virtual Internship – Java Projects
 
-This repository contains Java-based projects developed during my ShadowFox Virtual Internship in the Java Development domain.
+---
 
-These projects demonstrate strong understanding of:
+## 📌 Overview
 
-Object-Oriented Programming (OOP)
+This repository contains Java-based projects developed during my ShadowFox Virtual Internship.  
 
-Core Java Concepts
+These projects demonstrate core programming concepts such as Object-Oriented Programming (OOP), file handling, user input handling, and basic system design using Java.
 
-Data Structures (ArrayList)
+---
 
-File & Input Handling
+## 🛠️ Technologies Used
 
-Menu-Driven Application Design
+- Java  
+- Object-Oriented Programming (OOP)  
+- Core Java Concepts  
+- Console-based Application Development  
 
-Problem-Solving & Logical Thinking
+---
 
-All applications are console-based and built to strengthen real-world Java fundamentals.
+## 📂 Project Files
 
-🛠️ Technologies Used
+---
 
-☕ Java (JDK 8+)
+### 1️⃣ BankSystem.java
 
-🧠 Object-Oriented Programming (OOP)
+A console-based banking system that allows users to perform basic banking operations such as:
 
-📂 Collections Framework
+- Create account  
+- Deposit money  
+- Withdraw money  
+- Check account balance  
 
-🔁 Conditional Statements & Loops
+**Concepts used:**
 
-📥 Scanner Class
+- Classes & Objects  
+- Methods  
+- Conditional Statements  
+- User Input Handling  
 
-🖥️ Console-based Development
+---
 
-📂 Projects Included
-1️⃣ BankSystem.java
+### 2️⃣ Contact_Managementsystem.java
 
-A console-based banking system that simulates real-world banking operations.
+A contact management application to store and manage contact details.
 
-Features:
+**Features:**
 
-Create Account
+- Add new contacts  
+- View contact list  
+- Update contact information  
+- Delete contacts  
 
-Deposit Money
+**Concepts used:**
 
-Withdraw Money
+- Array/List handling  
+- OOP concepts  
+- Menu-driven program structure  
 
-Check Account Balance
+---
 
-Concepts Used:
+### 3️⃣ EnhancedCalculator.java
 
-Classes & Objects
+An advanced calculator application that performs multiple mathematical operations.
 
-Methods
+**Features:**
 
-Conditional Statements
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+- Additional arithmetic operations  
 
-Menu-driven Logic
+**Concepts used:**
 
-2️⃣ Contact_Managementsystem.java
+- Functions/Methods  
+- Switch Case  
+- User Input Handling  
 
-A contact management application to efficiently store and manage contact details.
+---
 
-Features:
+### 4️⃣ InventorySystem.java
 
-Add New Contact
+A simple inventory management system for tracking items and stock.
 
-View Contact List
+**Features:**
 
-Update Contact Information
+- Add items to inventory  
+- Update stock details  
+- View available items  
+- Manage inventory records  
 
-Delete Contact
+**Concepts used:**
 
-Concepts Used:
+- Classes and Objects  
+- Data management  
+- Menu-driven logic  
 
-ArrayList
+---
 
-OOP Principles
+### 5️⃣ Student_informationsystem.java
 
-CRUD Operations
+A student information system to manage student records.
 
-Structured Program Flow
+**Features:**
 
-3️⃣ EnhancedCalculator.java
+- Add student details  
+- View student records  
+- Update student information  
+- Basic record management  
 
-An advanced calculator performing multiple mathematical operations.
+**Concepts used:**
 
-Features:
+- OOP concepts  
+- Data storage structures  
+- Input/Output operations  
 
-Addition
+---
 
-Subtraction
+## ▶️ How to Run the Projects
 
-Multiplication
+Install Java (JDK 8 or above).
 
-Division
+Compile the Java file:
 
-Additional Arithmetic Operations
-
-Concepts Used:
-
-Methods
-
-Switch Case
-
-User Input Handling
-
-4️⃣ InventorySystem.java
-
-A simple inventory management system to track stock and items.
-
-Features:
-
-Add Items
-
-Update Stock
-
-View Inventory
-
-Manage Records
-
-Concepts Used:
-
-Classes & Objects
-
-Data Handling
-
-Menu-driven Architecture
-
-5️⃣ Student_informationsystem.java
-
-A student information system for maintaining and managing student records.
-
-Features:
-
-Add Student Details
-
-View Student Records
-
-Update Information
-
-Basic Record Management
-
-Concepts Used:
-
-OOP Concepts
-
-Data Structures
-
-Input/Output Operations
-
-▶️ How to Run the Projects
-🔹 Step 1: Install Java
-
-Ensure JDK 8 or above is installed.
-
-🔹 Step 2: Compile
+```
 javac FileName.java
-🔹 Step 3: Run
+```
+
+Run the program:
+
+```
 java FileName
---> Example:
+```
+
+Example:
+
+```
 javac BankSystem.java
 java BankSystem
+```
 
-Internship Details
+---
 
-Internship: ShadowFox Virtual Internship
-Domain: Java Development
-Role: Java Intern
+## 🎓 Internship Details
 
-👩‍💻 Author
+Internship: ShadowFox Virtual Internship  
 
-Devireddy Nikitha
-CSE Student
+Domain: Java Development  
 
-🔗 GitHub: https://github.com/nikitha-devireddy
-🔗 LinkedIn: https://www.linkedin.com/in/devireddy-nikitha
+Role: Java Intern  
 
-⭐ Note
+---
 
-These projects were developed as part of internship training to strengthen core Java programming, system design basics, and real-world problem-solving skills.
+## 👩‍💻 Author
+
+Devireddy Nikitha  
+
+CSE Student  
+
+GitHub: https://github.com/nikitha-devireddy  
+
+LinkedIn: https://www.linkedin.com/in/devireddy-nikitha  
+
+---
+
+## ⭐ Note
+
+These projects were developed as part of internship practice to strengthen core Java programming and problem-solving skills.
+
+---
